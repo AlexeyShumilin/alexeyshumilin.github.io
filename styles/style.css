@@ -41,7 +41,6 @@ a {
   font-size: 102px;
   font-weight: 600;
   line-height: 96px;
-  z-index: 1;
 }
 
 .header__subtitle {
@@ -55,7 +54,6 @@ a {
 
 .header__link {
   position: absolute;
-  z-index: 2;
   color: #2F80ED;
   text-decoration: none;
 }
