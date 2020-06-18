@@ -41,6 +41,7 @@ a {
   font-size: 102px;
   font-weight: 600;
   line-height: 96px;
+  z-index: 1;
 }
 
 .header__subtitle {
